@@ -564,8 +564,7 @@ MonoBehaviour:
   - {fileID: 212294528675387754}
   DefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   EyesPaintMaterial: {fileID: 2100000, guid: 76c39f1b79f94a6093d87b9b386ee91c, type: 2}
-  EquipmentPaintMaterial: {fileID: 2100000, guid: 422f5f2ea71549499f154becb259725a,
-    type: 2}
+  EquipmentPaintMaterial: {fileID: 2100000, guid: 422f5f2ea71549499f154becb259725a, type: 2}
   Animator: {fileID: 95570845223693640}
   WeaponType: 0
   HideEars: 0
@@ -8069,13 +8068,11 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 1f94dbec0c84cc94e9d9fc9b93e7dc44, type: 3}
 --- !u!198 &1220153771629482704 stripped
 ParticleSystem:
-  m_CorrespondingSourceObject: {fileID: 198416100499550440, guid: 1f94dbec0c84cc94e9d9fc9b93e7dc44,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 198416100499550440, guid: 1f94dbec0c84cc94e9d9fc9b93e7dc44, type: 3}
   m_PrefabInstance: {fileID: 1310038419336487480}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1314489140424727686 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 4558475463343806, guid: 1f94dbec0c84cc94e9d9fc9b93e7dc44,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 4558475463343806, guid: 1f94dbec0c84cc94e9d9fc9b93e7dc44, type: 3}
   m_PrefabInstance: {fileID: 1310038419336487480}
   m_PrefabAsset: {fileID: 0}

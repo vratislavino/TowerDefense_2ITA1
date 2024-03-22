@@ -40,6 +40,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
+      enableAlphaDilation: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
@@ -169,6 +170,18 @@ SpriteAtlas:
   - {fileID: 21300000, guid: c4a159c07caf45c18023b76c41596e2e, type: 3}
   - {fileID: 21300000, guid: b52e06d01b114ad6aa6a464809484ce4, type: 3}
   - {fileID: 21300000, guid: 089a56d03f0a49ceb05e2d4aa6c8824b, type: 3}
+  - {fileID: 21300016, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300018, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300012, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300022, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300006, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300002, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300004, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300000, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300014, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300020, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300008, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
+  - {fileID: 21300010, guid: 12c54dd0df88f984d94d770d0040e04b, type: 3}
   - {fileID: 21300000, guid: 13f320e05f5d497db016c1353c896fcc, type: 3}
   - {fileID: 21300000, guid: d9d4e1e07eb04e5a826070e8972694f9, type: 3}
   - {fileID: 21300002, guid: 2d84bce006a541afaefbb7ef67065faf, type: 3}
@@ -243,6 +256,7 @@ SpriteAtlas:
   - {fileID: 21300020, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
   - {fileID: 21300008, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
   - {fileID: 21300010, guid: 880cea81678245ad926c8a2e990a0483, type: 3}
+  - {fileID: 21300000, guid: 331f9191ea7d5824eab5bfc3690e3dd2, type: 3}
   - {fileID: 21300000, guid: 6a1316916ed047dead42e0105e203c45, type: 3}
   - {fileID: 21300000, guid: 5ad864a10f39463f8e8c31ee5fd619d6, type: 3}
   - {fileID: 21300000, guid: 9f693aa1bde342e3bfa8514385b681a9, type: 3}
@@ -351,6 +365,7 @@ SpriteAtlas:
   - {fileID: 21300020, guid: fa0a3972c10b479cb9b130218fedcd77, type: 3}
   - {fileID: 21300008, guid: fa0a3972c10b479cb9b130218fedcd77, type: 3}
   - {fileID: 21300010, guid: fa0a3972c10b479cb9b130218fedcd77, type: 3}
+  - {fileID: 21300000, guid: 659bd972ffc3c0f418e771f35281ee7e, type: 3}
   - {fileID: 21300000, guid: ad947d72a3814922a9eb5fc5a68751e8, type: 3}
   - {fileID: 21300000, guid: c1de8d7215b6465e93ad502ed770ec4c, type: 3}
   - {fileID: 21300000, guid: 66ce6282a2b24280a9f53a86eff81f39, type: 3}
@@ -410,6 +425,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 9d2584e2bc234f83a70ca188de6d4007, type: 3}
   - {fileID: 21300000, guid: 9004f8e2ae67469cae6726c6310dfcfc, type: 3}
   - {fileID: 21300000, guid: bb6b90f28a6e4b829a1d14d938af2c11, type: 3}
+  - {fileID: 21300000, guid: ecd32af213640904c9624248a80a20ad, type: 3}
   - {fileID: 21300016, guid: 5f371b03af8e461798345e78db1ecaca, type: 3}
   - {fileID: 21300018, guid: 5f371b03af8e461798345e78db1ecaca, type: 3}
   - {fileID: 21300012, guid: 5f371b03af8e461798345e78db1ecaca, type: 3}
@@ -536,6 +552,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 2c3a6db3c61d4545ac0f5ca7e0fb8a58, type: 3}
   - {fileID: 21300000, guid: ff918eb3754f4468b0e71762e0037e84, type: 3}
   - {fileID: 21300000, guid: 072dffc32d1e46b888d676d09d150715, type: 3}
+  - {fileID: 21300000, guid: 363a13d36984d0a49a46d11cbf4be865, type: 3}
   - {fileID: 21300000, guid: 19c3f6d3a7224303aafab0394dfc6457, type: 3}
   - {fileID: 21300034, guid: 72a72ad359994da5bfd7f67a1348256c, type: 3}
   - {fileID: 21300036, guid: 72a72ad359994da5bfd7f67a1348256c, type: 3}
@@ -948,6 +965,7 @@ SpriteAtlas:
   - {fileID: 21300008, guid: c9ffe4a63dfd41ba8d41390083b1aaab, type: 3}
   - {fileID: 21300010, guid: c9ffe4a63dfd41ba8d41390083b1aaab, type: 3}
   - {fileID: 21300000, guid: c1acdca6ef3e98f468b3cfb000b62428, type: 3}
+  - {fileID: 21300000, guid: 8a193fb6b0aecaf44a02dab0bd10c670, type: 3}
   - {fileID: 21300000, guid: 9916b0c691154b33ab1ab753d22c137b, type: 3}
   - {fileID: 21300000, guid: 2edcf2c6a70d4112a722ef201e8fff41, type: 3}
   - {fileID: 21300000, guid: 9f64d3c61f774f07a822a34f9209240d, type: 3}
@@ -1078,6 +1096,18 @@ SpriteAtlas:
   - {fileID: 21300000, guid: ea10bd97bf2e40818a2f415778f62dd9, type: 3}
   - {fileID: 21300000, guid: bba993a77b604458aa7796e2b5724fad, type: 3}
   - {fileID: 21300000, guid: 3c589ba7c2974b748c08acfb0ec0b139, type: 3}
+  - {fileID: 21300016, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300018, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300012, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300022, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300006, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300002, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300004, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300000, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300014, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300020, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300008, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
+  - {fileID: 21300010, guid: 57b93ca7f6a80974bb47fea3687807b0, type: 3}
   - {fileID: 21300016, guid: 3d4029b7721041ed80f029e35df63b42, type: 3}
   - {fileID: 21300018, guid: 3d4029b7721041ed80f029e35df63b42, type: 3}
   - {fileID: 21300012, guid: 3d4029b7721041ed80f029e35df63b42, type: 3}
@@ -1592,6 +1622,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 0159796b092a41cc973c0daad78b11d8, type: 3}
   - {fileID: 21300000, guid: b4f0247bff92f7246819602107bb11c3, type: 3}
   - {fileID: 21300000, guid: 498ed08befb2479599352f94ac566bb9, type: 3}
+  - {fileID: 21300000, guid: db3c219bec1895746b474c27460089ca, type: 3}
   - {fileID: 21300002, guid: 263125bb02994859aaa9434569435f81, type: 3}
   - {fileID: 21300000, guid: 263125bb02994859aaa9434569435f81, type: 3}
   - {fileID: 21300004, guid: 263125bb02994859aaa9434569435f81, type: 3}
@@ -1929,6 +1960,7 @@ SpriteAtlas:
   - {fileID: 21300008, guid: 0b59983e18924482b3e679fe76646884, type: 3}
   - {fileID: 21300010, guid: 0b59983e18924482b3e679fe76646884, type: 3}
   - {fileID: 21300000, guid: bb070e3e1c78478da26a3beefea030a4, type: 3}
+  - {fileID: 21300000, guid: 0bdd274e10b35784a84396fe5e35e5a2, type: 3}
   - {fileID: 21300016, guid: eb71a94e0fa14478a5ff62bba0a942e1, type: 3}
   - {fileID: 21300018, guid: eb71a94e0fa14478a5ff62bba0a942e1, type: 3}
   - {fileID: 21300012, guid: eb71a94e0fa14478a5ff62bba0a942e1, type: 3}
@@ -2259,6 +2291,18 @@ SpriteAtlas:
   - Sai [Paint]
   - WitchWand
   - HermitHat
+  - HandL
+  - HandR
+  - Leg
+  - Finger
+  - Pelvis
+  - ArmR
+  - ArmL
+  - Torso
+  - Shin
+  - SleeveR
+  - ForearmR
+  - ForearmL
   - SmallPotion
   - SamuraiSword2
   - Limb
@@ -2333,6 +2377,7 @@ SpriteAtlas:
   - SleeveR
   - ForearmR
   - ForearmL
+  - ClothHeadband
   - MasterDodgeHat
   - HunterHat
   - FireWizardHood
@@ -2441,6 +2486,7 @@ SpriteAtlas:
   - SleeveR
   - ForearmR
   - ForearmL
+  - MagicWandTypeC
   - DruidWand
   - SamuraiElderHelm
   - KnightHelm [Paint]
@@ -2500,6 +2546,7 @@ SpriteAtlas:
   - BanditMask [Paint]
   - PeasantCap
   - SantaHat
+  - BaboonMask
   - HandL
   - HandR
   - Leg
@@ -2626,6 +2673,7 @@ SpriteAtlas:
   - LargePotion [Paint]
   - HorseLordSickle
   - DruidHat [Paint]
+  - BaseballBat
   - Katana2 [Paint]
   - HandL
   - HandR
@@ -3038,6 +3086,7 @@ SpriteAtlas:
   - ForearmR
   - ForearmL
   - Coin
+  - MagicWandTypeA
   - SavageBoomerang
   - MagicSword [Paint]
   - ArrowQuiver2
@@ -3168,6 +3217,18 @@ SpriteAtlas:
   - BlackHammer
   - AdvancedKnightShield
   - SwampHealer2Staff
+  - HandL
+  - HandR
+  - Leg
+  - Finger
+  - Pelvis
+  - ArmR
+  - ArmL
+  - Torso
+  - Shin
+  - SleeveR
+  - ForearmR
+  - ForearmL
   - HandL
   - HandR
   - Leg
@@ -3682,6 +3743,7 @@ SpriteAtlas:
   - SamuraiSword2 [Paint]
   - Potion1
   - SiegeArcherHelm [Paint]
+  - ClothMask
   - Limb
   - Riser
   - Arrow
@@ -4019,6 +4081,7 @@ SpriteAtlas:
   - ForearmR
   - ForearmL
   - SantaHelperWand
+  - MagicWandTypeB
   - HandL
   - HandR
   - Leg
