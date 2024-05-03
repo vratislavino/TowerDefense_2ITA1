@@ -13,11 +13,15 @@ public abstract class SingleAttackTower : Tower
 
     [SerializeField]
     protected List<EnemyStats> enemiesInRange = new List<EnemyStats>();
-    
+
+    protected Animator animator;
+
     protected virtual void Start()
     {
         CircleCollider2D cc = GetComponent<CircleCollider2D>();
         cc.radius = range;
+
+        animator = GetComponentInChildren<Animator>();
 
         StartCoroutine(AttackRoutine());
     }
