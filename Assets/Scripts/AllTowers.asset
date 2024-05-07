@@ -21,3 +21,7 @@ MonoBehaviour:
     cost: 200
     icon: {fileID: 21300000, guid: 69b3d696ee194df79f84ae38450e940f, type: 3}
     prefab: {fileID: 6455615220761676358, guid: 867a01556dadd994b9a48dff95b65762, type: 3}
+  - name: Projectile tower
+    cost: 300
+    icon: {fileID: 21300000, guid: 9b79915914de4110afaf88efc69b1e43, type: 3}
+    prefab: {fileID: 9131877562898796247, guid: de2033a815f603448b796f51418a5650, type: 3}

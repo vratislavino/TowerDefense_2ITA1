@@ -26,6 +26,6 @@ public class TowerButton : MonoBehaviour
 
     public void OnClick()
     {
-        Debug.Log("Clicked on " + towerData.name);
+        BuildingManager.Instance.selectedTowerData = towerData;
     }
 }
